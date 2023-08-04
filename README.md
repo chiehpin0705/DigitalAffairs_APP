@@ -20,7 +20,8 @@
 - 盤點本府各機關App建置情形<br>
   一、 盤點有沒有漏掉沒有列管的App。<br>
   二、抽檢軟體商店(iOS、Android)有無遺漏沒有列管的App。<br>
-  三、 盤點完要綜整簽陳提報。 
+  三、 盤點完要綜整簽陳提報。
+  四、相關資料可參閱NAS![盤點App](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E7%9B%A4%E9%BB%9EApp.png)
 - iOS開發者帳號小額採購<br>
 一、 iOS的開發者帳號，每年須支付3400元(Android的開發者帳號不用)，有效期限為每年9/25。<br>
 二、 快到期1個月前，Apple也會主動Mail通知。 <br>
