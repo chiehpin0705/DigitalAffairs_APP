@@ -17,10 +17,10 @@
 - iOS開發者帳號小額採購<br>
 一、 iOS的開發者帳號，每年須支付3400元(Android的開發者帳號不用)，有效期限為每年9/25。<br>
 二、 快到期1個月前，Apple也會主動Mail通知。 <br>
-- 開放資料集Open Data資料更新<br>
+- [開放資料集Open Data](https://opendata.taichung.gov.tw/dataset/868f7825-978f-4e09-9578-bb4cf4118f5f)資料更新<br>
 一、只要有App上、下架異動的情況，就要進要Open Data修正。<br>
 二、如遇Open Data金質要求，會有不同的column規範要求，則要依其進行修改。 <br>
-- 官網App專區資料修正<br>
+- [官網App專區](https://www.taichung.gov.tw/10179/10242/)資料修正<br>
   一、只要有App上、下架異動的情況，就要進要Open Data修正。<br>
   二、如遇App說明簡介修正，亦要進行修改。<br>
 - 行政小組內部稽核<br>
