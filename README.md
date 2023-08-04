@@ -2,7 +2,7 @@
 - 函請各機關填報下載總次數<br>
   一、 只需要發文給不是用本中心帳號發布App的機關。<br>
   二、 目前是使用Google表單，表單存在本中心共用Google ID：387220100a的雲端硬碟底下。<br>
-  三、 發文時間點以可累計到月底，隔月來的及提報公務統計報表為原則。
+  三、 發文時間點以可累計到月底，隔月來的及提報公務統計報表為原則。<br>
   四、有關下載量指標(除了台中通暨購物廠商會自己提供數據外，其它皆採取下面的)：<br>
       <1>iOS:原則採用[data.ai(原AppAnnie)](https://www.data.ai/en/)<br>
         ![下載量_AppAnnie](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E4%B8%8B%E8%BC%89%E9%87%8F_AppAnnie.png)<br>
