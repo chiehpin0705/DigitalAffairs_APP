@@ -25,6 +25,7 @@
 - iOS開發者帳號小額採購<br>
 一、 iOS的開發者帳號，每年須支付3400元(Android的開發者帳號不用)，有效期限為每年9/25。<br>
 二、 快到期1個月前，Apple也會主動Mail通知。 <br>
+三、相關資料可參閱NAS![iOS開發者帳號小額採購](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/iOS%E9%96%8B%E7%99%BC%E8%80%85%E5%B8%B3%E8%99%9F%E5%B0%8F%E9%A1%8D%E6%8E%A1%E8%B3%BC.png)
 - [開放資料集Open Data](https://opendata.taichung.gov.tw/dataset/868f7825-978f-4e09-9578-bb4cf4118f5f)資料更新<br>
 一、只要有App上、下架異動的情況，就要進要Open Data修正。<br>
 二、如遇Open Data金質要求，會有不同的column規範要求，則要依其進行修改。 <br>
