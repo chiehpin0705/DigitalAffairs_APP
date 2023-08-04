@@ -1,1 +1,23 @@
 # DigitalAffairs_APP
+- 函請各機關填報下載總次數
+- 函請各機關填報App軟體商店使用者評論採行紀錄表
+- 函請各機關填報App服務績效自評表
+- 盤點本府各機關App建置情形
+- iOS開發者帳號小額採購
+- 開放資料集Open Data資料更新
+- 官網App專區資料修正
+- 行政小組內部稽核
+- 各App帳號權限申請
+- App資安檢測結果報告或證書
+- 議員質詢
+- 審計索取資料
+- 新聞稿
+- 研考會委員會專題報告
+- App開發計畫審查
+- iOS通用憑證產製-Development
+- iOS通用憑證產製-Distribution
+- iOS各App Development憑證
+- iOS各App Distribution憑證
+- iOS各App Push Notification
+- iOS服務條款更新確認
+- iOS憑證串鏈異動
