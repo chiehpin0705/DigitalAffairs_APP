@@ -5,9 +5,9 @@
   三、 發文時間點以可累計到月底，隔月來的及提報公務統計報表為原則。
   四、有關下載量指標(除了台中通暨購物廠商會自己提供數據外，其它皆採取下面的)：<br>
       <1>iOS:原則採用[data.ai(原AppAnnie)](https://www.data.ai/en/)<br>
-        ![下載量_AppAnnie]()
+        ![下載量_AppAnnie](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E4%B8%8B%E8%BC%89%E9%87%8F_AppAnnie.png)<br>
       <2>Android:使用者->使用者開發->新使用者人數<br>
-        ![下載量_Android]()
+        ![下載量_Android](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E4%B8%8B%E8%BC%89%E9%87%8F_Android.png)<br>
 例如：我5/25簽稿，限期各機關於6/3以前填報累計到5月底的App下載次數。
 - 函請各機關填報App軟體商店使用者評論採行紀錄表<br>
   一、 App開發管理作業要點第六、(二)。<br>
