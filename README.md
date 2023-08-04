@@ -12,9 +12,11 @@
 - 函請各機關填報App軟體商店使用者評論採行紀錄表<br>
   一、 App開發管理作業要點第六、(二)。<br>
   二、 要綜整後簽陳提報府層各機關填報情形。<br>
+  三、相關資料可參閱NAS![使用者評論採行記錄表](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E4%BD%BF%E7%94%A8%E8%80%85%E8%A9%95%E8%AB%96%E6%8E%A1%E8%A1%8C%E8%A8%98%E9%8C%84%E8%A1%A8.png)
 - 函請各機關填報App服務績效自評表<br>
   一、 App開發管理作業要點第六、(三)。<br>
   二、 要綜整後簽陳提報府層各機關填報情形。<br>
+  三、相關資料可參閱NAS![使用者評論採行記錄表](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E4%BD%BF%E7%94%A8%E8%80%85%E8%A9%95%E8%AB%96%E6%8E%A1%E8%A1%8C%E8%A8%98%E9%8C%84%E8%A1%A8.png)
 - 盤點本府各機關App建置情形<br>
   一、 盤點有沒有漏掉沒有列管的App。<br>
   二、抽檢軟體商店(iOS、Android)有無遺漏沒有列管的App。<br>
