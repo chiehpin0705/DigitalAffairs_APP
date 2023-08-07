@@ -45,7 +45,7 @@
 四、相關資料可參閱NAS![議員質詢](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E8%B3%AA%E8%A9%A2%E6%A2%9D.png)
 - 審計索取資料<br>
 一、有遇過混合要過App、網站、資安的資料，所以綜整起來相當繁瑣。<br>
-二、各機關的作業時間不一定，且機關眾多又要逐一要資料，建議深呼吸保持清醒，審計可能會用有限的時間壓著你往極短的時間完成，加油。 <br>
+二、各機關的作業時間不一定，且機關眾多又要逐一要資料，建議深呼吸保持清醒，審計也想盡早拿到資料，所以時間可能會被壓縮，加油。 <br>
 三、相關資料可參閱NAS![審計處抽查](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E5%AF%A9%E8%A8%88%E8%99%95%E6%8A%BD%E6%9F%A5.png)
 - 新聞稿<br>
 一、有時是媒體要求、有時是因應議員質詢做出的回應。<br>
