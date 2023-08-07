@@ -29,6 +29,7 @@
 - [開放資料集Open Data](https://opendata.taichung.gov.tw/dataset/868f7825-978f-4e09-9578-bb4cf4118f5f)資料更新<br>
 一、只要有App上、下架異動的情況，就要進要Open Data修正。<br>
 二、如遇Open Data金質要求，會有不同的column規範要求，則要依其進行修改。 <br>
+三、相關資料可參閱NAS![開放資料集Open Data](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E9%96%8B%E6%94%BE%E8%B3%87%E6%96%99%E9%9B%86Open%20Data.png)
 - [官網App專區](https://www.taichung.gov.tw/10179/10242/)資料修正<br>
   一、只要有App上、下架異動的情況，就要進要Open Data修正。<br>
   二、如遇App說明簡介修正，亦要進行修改。<br>
