@@ -53,7 +53,7 @@
 - 研考會委員會專題報告<br>
 一、以往僅有Open Data，然而自112年也納入了App。<br>
 二、需準備相關PPT簡報檔。<br>
-三、[參考資料](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/(%E8%A4%87%E8%A3%BD)%E7%A0%94%E8%80%83%E6%9C%83112%E5%B9%B4%E7%AC%AC2%E6%AC%A1%E5%A7%94%E5%93%A1%E6%9C%83%E6%9C%83%E8%AD%B0-%E6%95%B8%E4%BD%8D%E5%B1%80%E7%B0%A1%E5%A0%B10508v2.pdf)
+三、[參考資料]。<br>(https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/(%E8%A4%87%E8%A3%BD)%E7%A0%94%E8%80%83%E6%9C%83112%E5%B9%B4%E7%AC%AC2%E6%AC%A1%E5%A7%94%E5%93%A1%E6%9C%83%E6%9C%83%E8%AD%B0-%E6%95%B8%E4%BD%8D%E5%B1%80%E7%B0%A1%E5%A0%B10508v2.pdf)
 四、相關資料可參閱NAS![研考會委員會專題報告](https://github.com/chiehpin0705/DigitalAffairs_APP/blob/main/%E7%A0%94%E8%80%83%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.png)
 - App開發計畫審查<br>
 一、因為目前傾向不開發新的App，所以要事先洞悉各機關可能潛在開發的App。<br>
